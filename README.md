@@ -26,12 +26,13 @@
 
     Go言語公式が出しているチュートリアルです。最後までやろう⭐️
     敷居が高いと感じたら以下のYoutube動画を見ることを勧めます。(二倍速でいいんじゃないかな)  
+
     [【たった1時間で学べる】Go言語のプログラミング初心者向けの超入門講座](https://youtu.be/kPXfMFJ0oIE)
     - 課題1.
         - [Go言語の基礎](./go)
         - Go言語の基礎文法を確かめるための問題を用意しました。テストコードを用意したので、それを使って答え合わせをしてください。具体的な取り組み方は[Go言語の基礎](./go-basic)にあるREADMEを参照してください。
 
- 3. [ginを最速でマスターしよう -Qiita](https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a)  
+ 4. [ginを最速でマスターしよう -Qiita](https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a)  
 
     ginはGo（Golang）で書かれたWebフレームワークです。
     - 課題2. 
@@ -40,7 +41,7 @@
     - [公式ドキュメント](https://gin-gonic.com/ja/)
         ginの公式ドキュメントですが、あまり豊富ではないです。[APIの使い方のサンプル](https://gin-gonic.com/ja/docs/examples/)はある程度参考になると思います。
    
-   4. Clean Architecture  
+   5. Clean Architecture  
    
    まずClean Architectureについて自身で調べてみて下さい。
    具体的な実装は以下の記事がわかりやすいです。疎結合サイコー！！！
