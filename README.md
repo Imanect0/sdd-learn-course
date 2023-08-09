@@ -3,7 +3,9 @@
 システム開発部(System Development Department -SDD)で使用する技術等の、学習ロードマップを示します。
 順番を守らなくても良いです。例えば、goの勉強しながら、飽きたらReactをやるとかでもいいです。全部こなせばそれでいいんじゃないかな✨。
 
-あと、実際に手を動かして欲しいです。
+あと、実際に手を動かして欲しいです。  
+
+Udemyは見るタイミングで連絡ください。
 
 ## 学習手順
 
@@ -30,7 +32,7 @@
     Go言語公式が出しているチュートリアルです。最後までやろう⭐️
     敷居が高いと感じたら以下のYoutube動画を見ることを勧めます。(二倍速でいいんじゃないかな)  
 
-    [【たった1時間で学べる】Go言語のプログラミング初心者向けの超入門講座](https://youtu.be/kPXfMFJ0oIE)
+    [Gopher道場](https://www.youtube.com/watch?v=YrGUL6atiJ4&list=PL9MOSAifWs3whvWOsObk3uCBXtVAhD2A7)
     - 課題1.
         - [Go言語の基礎](./go)
         - Go言語の基礎文法を確かめるための問題を用意しました。テストコードを用意したので、それを使って答え合わせをしてください。具体的な取り組み方は[Go言語の基礎](./go-basic)にあるREADMEを参照してください。
@@ -76,7 +78,7 @@
    - [React × TailwindCSSでポートフォリオサイトを構築してみよう](https://youtu.be/82cN8zwDhbY)
    - Udemy 【Discordクローン開発】React/Redux/Typescript/Firebaseで作るアプリ開発実践講座
   
-4. Nextjs + Tailwind CSS +  Django REST Framework で学ぶモダンReact開発
+4. Udemy Nextjs + Tailwind CSS +  Django REST Framework で学ぶモダンReact開発
 
 4. [【Recoil入門】１からReactの状態管理ライブラリのRecoilを学んでみよう](https://youtu.be/S93hsNFmIcM)  
 
@@ -107,7 +109,7 @@ Next.jsとGoでシンプルなToDoアプリを作ってみよう！
 
 1. Udemy AWSで作るWEBアプリケーション 実践講座
 2. Udemy AWSで学ぶ！マイクロサービス入門
-3. 【ベストセラー完全日本語化】AWS 認定ソリューションアーキテクト アソシエイト SAA-C03 対応 2022 最新版
+3. Udemy 【ベストセラー完全日本語化】AWS 認定ソリューションアーキテクト アソシエイト SAA-C03 対応 2022 最新版  
 これは流し見でいい。
 
 ### 4. Docker
